@@ -6,7 +6,7 @@ setup(
     version=__import__('crequest').__version__,
     description='Middleware that makes the current request available from anywhere.',
     long_description=open('README.rst').read(),
-    license=open('LICENSE', encoding='utf-8').read(),
+    license=open('LICENSE').read(),
     author='Alireza Savand',
     author_email='alireza.savand@gmail.com',
     url='https://github.com/Alir3z4/django-crequest',
