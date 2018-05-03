@@ -2,7 +2,7 @@
 django-crequest
 ===============
 
-.. contents:: 
+.. contents::  Fixed license=open('LICENSE', encoding='utf-8').read(), TypeError: 'encoding' is an invalid keyword argument for this function
 
 Overview
 ========
